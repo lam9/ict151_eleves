@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messages>
+  <message>
+    <auteur>Mark Downs</auteur>
+    <titre>accumsan sed, facilisis vitae, orci. Phasellus dapibus</titre>
+    <message>rutrum eu, ultrices sit amet, risus. Donec nibh enim, gravida sit amet, dapibus id, blandit at, nisi. Cum sociis natoque penatibus et magnis</message>
+    <date>2015-05-22</date>
+  </message>
+  <message>
+    <auteur>Tanek Love</auteur>
+    <titre>posuere cubilia Curae; Donec tincidunt. Donec vitae erat</titre>
+    <message>mollis lectus pede et risus. Quisque libero lacus, varius et, euismod et, commodo at, libero.</message>
+    <date>2015-11-04</date>
+  </message>
+  <message>
+    <auteur>Duncan Webster</auteur>
+    <titre>aliquet, sem ut cursus luctus, ipsum leo</titre>
+    <message>amet orci. Ut sagittis lobortis mauris. Suspendisse aliquet molestie tellus. Aenean egestas hendrerit neque. In ornare sagittis felis. Donec tempor, est</message>
+    <date>2015-04-28</date>
+  </message>
+  <message>
+    <auteur>Xavier Lindsey</auteur>
+    <titre>velit eget laoreet posuere, enim nisl</titre>
+    <message>vitae, posuere at, velit. Cras lorem lorem, luctus ut, pellentesque eget, dictum placerat, augue. Sed</message>
+    <date>2015-12-02</date>
+  </message>
+  <message>
+    <auteur>Elijah Noble</auteur>
+    <titre>vehicula risus. Nulla eget metus eu erat semper rutrum. Fusce</titre>
+    <message>eu eros. Nam consequat dolor vitae dolor. Donec fringilla. Donec feugiat metus sit</message>
+    <date>2015-06-24</date>
+  </message>
+  <message>
+    <auteur>Jelani Shepherd</auteur>
+    <titre>pharetra. Nam ac nulla. In</titre>
+    <message>ornare, lectus ante dictum mi, ac mattis velit justo nec ante. Maecenas mi felis, adipiscing fringilla, porttitor vulputate, posuere vulputate, lacus. Cras interdum. Nunc sollicitudin commodo ipsum. Suspendisse non</message>
+    <date>2016-03-05</date>
+  </message>
+  <message>
+    <auteur>Isaac Dean</auteur>
+    <titre>tellus non magna. Nam ligula elit,</titre>
+    <message>ac orci. Ut semper pretium neque. Morbi quis urna. Nunc quis arcu vel quam dignissim pharetra. Nam ac nulla. In tincidunt congue turpis. In condimentum. Donec at arcu.</message>
+    <date>2015-11-26</date>
+  </message>
+  <message>
+    <auteur>Ezra Wong</auteur>
+    <titre>tempus risus. Donec egestas. Duis</titre>
+    <message>nisi magna sed dui. Fusce aliquam, enim nec tempus scelerisque,</message>
+    <date>2015-04-20</date>
+  </message>
+  <message>
+    <auteur>test</auteur>
+    <titre>test</titre>
+    <message>test</message>
+    <date>2016-03-19</date>
+  </message>
+</messages>

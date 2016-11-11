@@ -1,0 +1,158 @@
+/****************** 
+GENERAL 
+******************/
+* {
+	box-sizing: border-box;
+}
+
+html,
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+	font-size: 1em;
+	background: #f1f1f1;
+	color: #333;
+}
+
+h1, h2, h3, h4 {
+    font-weight: 800;
+    color: #599a68;
+}
+
+h1{
+	color: #fff;
+}
+
+h2 {
+    margin: 2em 0 1em;
+}
+
+h3 {
+    font-weight: 700;
+}
+
+p {
+    line-height: 1.5;
+}
+
+img {
+	max-width: 100%;
+}
+
+a {
+	text-decoration: none;
+	color: #6ab47b;
+}
+
+.bouton {
+    color: white;
+    padding: 1em;
+    background-color: #599a68;
+}
+
+.bouton:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);
+    -webkit-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+}
+
+#wrapper {
+	max-width:1280px;
+	margin: 0 auto;
+	padding: 0;
+}
+
+/****************** 
+ENTETE DU SITE 
+******************/
+header {
+	padding: 10px 2.5%;
+	margin: 0 0 30px;
+	border-bottom: 5px solid #599a68;
+	margin-bottom: 60px;
+	background: #6ab47b;
+}
+
+/******************
+CONTENU PRINCIPAL
+******************/
+section {
+	padding: 0 2.5%;
+}
+
+/******************
+LISTE DES MESSAGES
+******************/
+
+.messages {
+	list-style-type: none;
+	padding: 0;
+	margin: 0;
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.messages li {
+	padding: .5rem;
+	margin: .5rem 0;
+    background: #ffffff;
+    box-shadow: 2px 2px 1px 0 rgba(0,0,0,0.125);
+	width: 100%;
+}
+
+.messages footer {
+    color: #ccc;
+}
+
+.messages footer time {
+    font-size: .9em;
+}
+
+.messages .author {
+    font-weight: 700;
+}
+
+/******************
+FORMULAIRES
+******************/
+form > div {
+    margin-bottom: 1rem;
+}
+
+label{
+    display: block;
+    margin-bottom: .5rem;
+}
+
+input + label {
+    display: inline;
+}
+
+input,
+textarea {
+    border: none;
+    font-size: inherit;
+    color: inherit;
+}
+
+input[type="text"],
+input[type="email"],
+textarea {
+    width: 100%;
+    padding: 1em;
+}
+
+textarea {
+    min-height: 10em;
+}
+
+/****************** 
+PIED DE PAGE
+******************/
+#wrapper > footer {
+	font-size: .75rem;
+	color: #ccc;
+	text-align: center;
+	padding: 20px 2.5%;
+}
+
